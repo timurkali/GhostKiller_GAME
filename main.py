@@ -37,7 +37,7 @@ players_y = 250
 
 is_jump = False
 jump_count = 8
-
+runnerfit = False
 
 bg_sound = pygame.mixer.Sound('sounds/music1.mp3')
 bg_sound.play()
