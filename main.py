@@ -42,6 +42,8 @@ runnerfit = False
 bg_sound = pygame.mixer.Sound('sounds/music1.mp3')
 bg_sound.play()
 
+
+
 ghost_timer = pygame.USEREVENT + 1
 pygame.time.set_timer(ghost_timer, 2500)
 
